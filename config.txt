@@ -1,5 +1,7 @@
-added config file
+added config file.txt
 
-added more config 1
-added more config 2
-added more config 3
+edited more config 1
+edited more config 2
+edited more config 3
+
+added config 4
